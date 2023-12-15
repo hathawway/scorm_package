@@ -1,5 +1,5 @@
 # Scorm пакет
-(moodle cloud)[https://bukov-itmo.moodlecloud.com]
+[moodle cloud](https://bukov-itmo.moodlecloud.com)
 
 ## Студент
 Логин
